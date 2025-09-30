@@ -1,2 +1,3 @@
-# My-proj-1-
-first trying repo
+# My-proj-1
+first trying repository
+
